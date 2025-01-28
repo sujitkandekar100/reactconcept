@@ -4,7 +4,10 @@ export  function ConceptuseState() {
   const [Count,setCount]=useState(0);
   const [CarDetails,setCarDetails]=useState({carName:'toyota fortuner',carModel:'xl',safetyRating:5,carPrice:35000});
   const increaseCount=()=>{
-     setCount(Count=>Count+4);
+    setCount(Count=>Count+4);
+    /* setTimeout(()=>{
+      setCount(Count=>Count+4);
+     },2000)*/ //when settimeout set time not show repeatly work use useffect.
   }
   const changeCar = () => {
     setCarDetails((prevDetails) => ({
