@@ -1,11 +1,12 @@
-import {ConceptuseState} from './components/ConceptuseState';
+
 import './App.css'
+import { ConceptuseEffect } from './components/ConceptuseEffect';
 
 function App() {
   return (
     <>
       <div>
-       <ConceptuseState />
+       <ConceptuseEffect />
       </div>
     </>
   )
