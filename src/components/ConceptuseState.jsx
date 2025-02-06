@@ -44,7 +44,7 @@ Counters: Track numbers like clicks or scores.
 Example: Incrementing a counter.
 API Data: Store and display data fetched from an API.
 
-Example: Rendering a list of users.
+Example:- Rendering a list of users.
 Dynamic Lists: Add, remove, or modify items in a list.
 
 Example: A todo list or shopping cart.
