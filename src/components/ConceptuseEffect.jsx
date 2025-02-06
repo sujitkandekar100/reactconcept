@@ -36,7 +36,7 @@ Sync with external systems (e.g., localStorage).
 When Not to Use:
 For tasks handled synchronously in the render logic.
 To calculate or derive state directly in JSX.
-Best Practices:
+Best Practices:-
 Include only necessary dependencies in the array.
 Clean up effects (e.g., unsubscribe, clear timers) in the return function.
 Avoid infinite re-renders by mismanaging dependencies.*/
