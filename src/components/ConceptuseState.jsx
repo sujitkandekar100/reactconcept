@@ -53,7 +53,7 @@ Switching Views: Manage tabs or conditionally display components.
 Example: Switching between "Home" and "Profile" tabs.
 Local Component State: Manage temporary states like hover effects, animations, or small UI updates.
 
-Don't Use useState:
+Don't Use useState:-
 
 For global state (use Context API or Redux).
 For static data (use props or hardcoded values).
