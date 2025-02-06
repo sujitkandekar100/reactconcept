@@ -22,7 +22,7 @@ export function ConceptuseEffect() {
     </>
   )
 }
-/*Purpose:
+/*Purpose:-
 Manages side effects like fetching data, updating the DOM, or managing timers.
 Usage:
 Run Once on Mount: Use an empty dependency array ([]).
