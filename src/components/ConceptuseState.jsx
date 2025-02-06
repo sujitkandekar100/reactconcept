@@ -35,7 +35,7 @@ Use functional updates if the new state depends on the old state.
 Where to Use useState
 User Input Handling: Manage form fields like text inputs, checkboxes, etc.
 
-Example: Capturing and displaying user-entered text.
+Example:- Capturing and displaying user-entered text.
 Toggles: Show/hide elements, dropdown menus, or modal visibility.
 
 Example: A button to toggle content display.
